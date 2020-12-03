@@ -17,7 +17,7 @@ Each day exercises are in a specific folder containing:
 |-----|--------|--------|
 |  1  |   ✔    |   ✔    |
 |  2  |   ✔    |   ✔    |
-|  3  |        |        |
+|  3  |   ✔    |   ✔    |
 |  4  |        |        |
 |  5  |        |        |
 |  6  |        |        |
